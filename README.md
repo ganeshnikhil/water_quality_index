@@ -21,7 +21,7 @@ This Python script allows you to retrieve the Water Quality Index (WQI) for a sp
    
 # response json.
 ```
-Enter city name: Bihar
+Enter city name: punjab
 
 Date time: 2023-11-04T10:00:00.000Z
 Index type: meersens
