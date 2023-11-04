@@ -82,11 +82,6 @@ This section provides a technical breakdown of how the Water Quality Index (WQI)
 
 - The program also provides detailed information about each pollutant, covering its name, abbreviation (shortcode), index value, confidence level, index type, index name, qualification, and a description of the pollutant's impact on health.
 
-### Sharing the Magic (Flask Web Application)
-
-- A Flask web application has been created to enable users to download the `requirements.txt` file. This file lists the required libraries for running the program.
-
-- Visitors to `http://localhost:5000/get-requirements` can download this file, simplifying the sharing of the necessary libraries with others who want to use the program.
 
 ### Important Note (License)
 
